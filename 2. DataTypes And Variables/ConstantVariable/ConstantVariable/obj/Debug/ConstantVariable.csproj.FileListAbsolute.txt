@@ -1,0 +1,7 @@
+D:\Code\LearnCSharp\2. DataTypes And Variables\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.csproj.AssemblyReference.cache
+D:\Code\LearnCSharp\2. DataTypes And Variables\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.csproj.CoreCompileInputs.cache
+D:\Code\LearnCSharp\2. DataTypes And Variables\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.exe.config
+D:\Code\LearnCSharp\2. DataTypes And Variables\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.exe
+D:\Code\LearnCSharp\2. DataTypes And Variables\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.pdb
+D:\Code\LearnCSharp\2. DataTypes And Variables\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.exe
+D:\Code\LearnCSharp\2. DataTypes And Variables\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.pdb
