@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\3. Methods & Try Catch\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+D:\Code\learn-csharp\3. Methods & Try Catch\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+D:\Code\learn-csharp\3. Methods & Try Catch\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+D:\Code\learn-csharp\3. Methods & Try Catch\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\3. Methods & Try Catch\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\3. Methods & Try Catch\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+D:\Code\learn-csharp\3. Methods & Try Catch\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

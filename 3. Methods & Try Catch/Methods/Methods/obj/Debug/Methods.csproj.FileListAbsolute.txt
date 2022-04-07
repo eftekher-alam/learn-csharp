@@ -1,0 +1,7 @@
+D:\Code\LearnCSharp\3. Methods\Methods\Methods\bin\Debug\Methods.exe.config
+D:\Code\LearnCSharp\3. Methods\Methods\Methods\bin\Debug\Methods.exe
+D:\Code\LearnCSharp\3. Methods\Methods\Methods\bin\Debug\Methods.pdb
+D:\Code\LearnCSharp\3. Methods\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\Code\LearnCSharp\3. Methods\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\Code\LearnCSharp\3. Methods\Methods\Methods\obj\Debug\Methods.exe
+D:\Code\LearnCSharp\3. Methods\Methods\Methods\obj\Debug\Methods.pdb
