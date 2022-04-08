@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\2. DataTypes And Variables\ConversionStringToOther\ConversionStringToOther\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\2. DataTypes And Variables\ConversionStringToOther\ConversionStringToOther\bin\Debug\ConversionStringToOther.exe.config
+D:\Code\learn-csharp\2. DataTypes And Variables\ConversionStringToOther\ConversionStringToOther\bin\Debug\ConversionStringToOther.exe
+D:\Code\learn-csharp\2. DataTypes And Variables\ConversionStringToOther\ConversionStringToOther\bin\Debug\ConversionStringToOther.pdb
+D:\Code\learn-csharp\2. DataTypes And Variables\ConversionStringToOther\ConversionStringToOther\obj\Debug\ConversionStringToOther.exe
+D:\Code\learn-csharp\2. DataTypes And Variables\ConversionStringToOther\ConversionStringToOther\obj\Debug\ConversionStringToOther.pdb
+D:\Code\learn-csharp\2. DataTypes And Variables\ConversionStringToOther\ConversionStringToOther\obj\Debug\TypeConversion.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\4. Make Decisions (if else)\TernaryConditionalOperator\TernaryConditionalOperator\bin\Debug\TernaryConditionalOperator.exe.config
+D:\Code\learn-csharp\4. Make Decisions (if else)\TernaryConditionalOperator\TernaryConditionalOperator\bin\Debug\TernaryConditionalOperator.exe
+D:\Code\learn-csharp\4. Make Decisions (if else)\TernaryConditionalOperator\TernaryConditionalOperator\bin\Debug\TernaryConditionalOperator.pdb
+D:\Code\learn-csharp\4. Make Decisions (if else)\TernaryConditionalOperator\TernaryConditionalOperator\obj\Debug\TernaryConditionalOperator.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\4. Make Decisions (if else)\TernaryConditionalOperator\TernaryConditionalOperator\obj\Debug\TernaryConditionalOperator.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\4. Make Decisions (if else)\TernaryConditionalOperator\TernaryConditionalOperator\obj\Debug\TernaryConditionalOperator.exe
+D:\Code\learn-csharp\4. Make Decisions (if else)\TernaryConditionalOperator\TernaryConditionalOperator\obj\Debug\TernaryConditionalOperator.pdb

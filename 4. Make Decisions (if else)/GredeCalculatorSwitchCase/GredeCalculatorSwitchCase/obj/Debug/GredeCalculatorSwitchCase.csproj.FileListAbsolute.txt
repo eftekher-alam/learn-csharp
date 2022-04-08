@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\4. Make Decisions (if else)\GredeCalculatorSwitchCase\GredeCalculatorSwitchCase\bin\Debug\GredeCalculatorSwitchCase.exe.config
+D:\Code\learn-csharp\4. Make Decisions (if else)\GredeCalculatorSwitchCase\GredeCalculatorSwitchCase\bin\Debug\GredeCalculatorSwitchCase.exe
+D:\Code\learn-csharp\4. Make Decisions (if else)\GredeCalculatorSwitchCase\GredeCalculatorSwitchCase\bin\Debug\GredeCalculatorSwitchCase.pdb
+D:\Code\learn-csharp\4. Make Decisions (if else)\GredeCalculatorSwitchCase\GredeCalculatorSwitchCase\obj\Debug\GredeCalculatorSwitchCase.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\4. Make Decisions (if else)\GredeCalculatorSwitchCase\GredeCalculatorSwitchCase\obj\Debug\GredeCalculatorSwitchCase.exe
+D:\Code\learn-csharp\4. Make Decisions (if else)\GredeCalculatorSwitchCase\GredeCalculatorSwitchCase\obj\Debug\GredeCalculatorSwitchCase.pdb
+D:\Code\learn-csharp\4. Make Decisions (if else)\GredeCalculatorSwitchCase\GredeCalculatorSwitchCase\obj\Debug\GredeCalculatorSwitchCase.csproj.AssemblyReference.cache

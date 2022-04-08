@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\4. Make Decisions (if else)\CheckWeather\CheckWeather\bin\Debug\CheckWeather.exe.config
+D:\Code\learn-csharp\4. Make Decisions (if else)\CheckWeather\CheckWeather\bin\Debug\CheckWeather.exe
+D:\Code\learn-csharp\4. Make Decisions (if else)\CheckWeather\CheckWeather\bin\Debug\CheckWeather.pdb
+D:\Code\learn-csharp\4. Make Decisions (if else)\CheckWeather\CheckWeather\obj\Debug\CheckWeather.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\4. Make Decisions (if else)\CheckWeather\CheckWeather\obj\Debug\CheckWeather.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\4. Make Decisions (if else)\CheckWeather\CheckWeather\obj\Debug\CheckWeather.exe
+D:\Code\learn-csharp\4. Make Decisions (if else)\CheckWeather\CheckWeather\obj\Debug\CheckWeather.pdb

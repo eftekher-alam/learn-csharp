@@ -52,20 +52,6 @@ namespace ConversionExplicitAndImplicit
 
             */
 
-
-
-            //Type conversion (Like int to string)
-
-            string stringData, amount = bigAmount.ToString(); // "13000000000000"
-            stringData = data2.ToString();
-            Console.WriteLine(amount+ "     " + stringData);
-
-            int p = int.Parse(Console.ReadLine());
-            Console.WriteLine(p);
-
-            string sNum1 = "1000";
-            float x = float.Parse(sNum1);
-
             Console.ReadKey();
 
           
