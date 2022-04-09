@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\5. Loops\BusReadyToGo(WhileLoop)\BusReadyToGo(WhileLoop)\bin\Debug\BusReadyToGo(WhileLoop).exe.config
+D:\Code\learn-csharp\5. Loops\BusReadyToGo(WhileLoop)\BusReadyToGo(WhileLoop)\bin\Debug\BusReadyToGo(WhileLoop).exe
+D:\Code\learn-csharp\5. Loops\BusReadyToGo(WhileLoop)\BusReadyToGo(WhileLoop)\bin\Debug\BusReadyToGo(WhileLoop).pdb
+D:\Code\learn-csharp\5. Loops\BusReadyToGo(WhileLoop)\BusReadyToGo(WhileLoop)\obj\Debug\BusReadyToGo(WhileLoop).csproj.AssemblyReference.cache
+D:\Code\learn-csharp\5. Loops\BusReadyToGo(WhileLoop)\BusReadyToGo(WhileLoop)\obj\Debug\BusReadyToGo(WhileLoop).csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\5. Loops\BusReadyToGo(WhileLoop)\BusReadyToGo(WhileLoop)\obj\Debug\BusReadyToGo(WhileLoop).exe
+D:\Code\learn-csharp\5. Loops\BusReadyToGo(WhileLoop)\BusReadyToGo(WhileLoop)\obj\Debug\BusReadyToGo(WhileLoop).pdb

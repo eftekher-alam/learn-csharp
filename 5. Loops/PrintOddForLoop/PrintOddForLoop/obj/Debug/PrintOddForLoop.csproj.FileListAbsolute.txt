@@ -1,0 +1,6 @@
+D:\Code\learn-csharp\5. Loops\PrintOddForLoop\PrintOddForLoop\bin\Debug\PrintOddForLoop.exe.config
+D:\Code\learn-csharp\5. Loops\PrintOddForLoop\PrintOddForLoop\bin\Debug\PrintOddForLoop.exe
+D:\Code\learn-csharp\5. Loops\PrintOddForLoop\PrintOddForLoop\bin\Debug\PrintOddForLoop.pdb
+D:\Code\learn-csharp\5. Loops\PrintOddForLoop\PrintOddForLoop\obj\Debug\PrintOddForLoop.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\5. Loops\PrintOddForLoop\PrintOddForLoop\obj\Debug\PrintOddForLoop.exe
+D:\Code\learn-csharp\5. Loops\PrintOddForLoop\PrintOddForLoop\obj\Debug\PrintOddForLoop.pdb

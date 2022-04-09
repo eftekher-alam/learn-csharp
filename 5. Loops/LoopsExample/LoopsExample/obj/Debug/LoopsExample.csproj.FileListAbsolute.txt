@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\5. Loops\LoopsExample\LoopsExample\bin\Debug\LoopsExample.exe.config
+D:\Code\learn-csharp\5. Loops\LoopsExample\LoopsExample\bin\Debug\LoopsExample.exe
+D:\Code\learn-csharp\5. Loops\LoopsExample\LoopsExample\bin\Debug\LoopsExample.pdb
+D:\Code\learn-csharp\5. Loops\LoopsExample\LoopsExample\obj\Debug\LoopsExample.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\5. Loops\LoopsExample\LoopsExample\obj\Debug\LoopsExample.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\5. Loops\LoopsExample\LoopsExample\obj\Debug\LoopsExample.exe
+D:\Code\learn-csharp\5. Loops\LoopsExample\LoopsExample\obj\Debug\LoopsExample.pdb
