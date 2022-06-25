@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachLoopWithArray", "ForeachLoopWithArray\ForeachLoopWithArray.csproj", "{4E39BA00-C6DC-4928-95DE-5DFE32952BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E39BA00-C6DC-4928-95DE-5DFE32952BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E39BA00-C6DC-4928-95DE-5DFE32952BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E39BA00-C6DC-4928-95DE-5DFE32952BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E39BA00-C6DC-4928-95DE-5DFE32952BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F897DDDC-27BE-439A-B109-AD4F92B00961}
+	EndGlobalSection
+EndGlobal

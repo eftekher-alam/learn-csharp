@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\7. Array and Lists\FriendFamilyJaggedArry\FriendFamilyJaggedArry\bin\Debug\FriendFamilyJaggedArry.exe.config
+D:\Code\learn-csharp\7. Array and Lists\FriendFamilyJaggedArry\FriendFamilyJaggedArry\bin\Debug\FriendFamilyJaggedArry.exe
+D:\Code\learn-csharp\7. Array and Lists\FriendFamilyJaggedArry\FriendFamilyJaggedArry\bin\Debug\FriendFamilyJaggedArry.pdb
+D:\Code\learn-csharp\7. Array and Lists\FriendFamilyJaggedArry\FriendFamilyJaggedArry\obj\Debug\FriendFamilyJaggedArry.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\7. Array and Lists\FriendFamilyJaggedArry\FriendFamilyJaggedArry\obj\Debug\FriendFamilyJaggedArry.exe
+D:\Code\learn-csharp\7. Array and Lists\FriendFamilyJaggedArry\FriendFamilyJaggedArry\obj\Debug\FriendFamilyJaggedArry.pdb
+D:\Code\learn-csharp\7. Array and Lists\FriendFamilyJaggedArry\FriendFamilyJaggedArry\obj\Debug\FriendFamilyJaggedArry.csproj.AssemblyReference.cache

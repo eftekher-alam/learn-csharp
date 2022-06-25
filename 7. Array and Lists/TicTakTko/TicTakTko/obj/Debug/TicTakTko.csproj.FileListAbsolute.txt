@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\7. Array and Lists\TicTakTko\TicTakTko\bin\Debug\TicTakTko.exe.config
+D:\Code\learn-csharp\7. Array and Lists\TicTakTko\TicTakTko\bin\Debug\TicTakTko.exe
+D:\Code\learn-csharp\7. Array and Lists\TicTakTko\TicTakTko\bin\Debug\TicTakTko.pdb
+D:\Code\learn-csharp\7. Array and Lists\TicTakTko\TicTakTko\obj\Debug\TicTakTko.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\7. Array and Lists\TicTakTko\TicTakTko\obj\Debug\TicTakTko.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\7. Array and Lists\TicTakTko\TicTakTko\obj\Debug\TicTakTko.exe
+D:\Code\learn-csharp\7. Array and Lists\TicTakTko\TicTakTko\obj\Debug\TicTakTko.pdb
