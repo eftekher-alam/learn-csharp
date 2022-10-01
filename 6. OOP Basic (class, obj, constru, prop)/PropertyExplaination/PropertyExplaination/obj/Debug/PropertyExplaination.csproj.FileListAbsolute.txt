@@ -1,0 +1,14 @@
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\PropertyExplaination\PropertyExplaination\bin\Debug\PropertyExplaination.exe.config
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\PropertyExplaination\PropertyExplaination\bin\Debug\PropertyExplaination.exe
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\PropertyExplaination\PropertyExplaination\bin\Debug\PropertyExplaination.pdb
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\PropertyExplaination\PropertyExplaination\obj\Debug\PropertyExplaination.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\PropertyExplaination\PropertyExplaination\obj\Debug\PropertyExplaination.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\PropertyExplaination\PropertyExplaination\obj\Debug\PropertyExplaination.exe
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\PropertyExplaination\PropertyExplaination\obj\Debug\PropertyExplaination.pdb
+D:\Code\learn-csharp\6. OOP Basic (class, obj, constru, prop)\PropertyExplaination\PropertyExplaination\bin\Debug\PropertyExplaination.exe.config
+D:\Code\learn-csharp\6. OOP Basic (class, obj, constru, prop)\PropertyExplaination\PropertyExplaination\bin\Debug\PropertyExplaination.exe
+D:\Code\learn-csharp\6. OOP Basic (class, obj, constru, prop)\PropertyExplaination\PropertyExplaination\bin\Debug\PropertyExplaination.pdb
+D:\Code\learn-csharp\6. OOP Basic (class, obj, constru, prop)\PropertyExplaination\PropertyExplaination\obj\Debug\PropertyExplaination.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\6. OOP Basic (class, obj, constru, prop)\PropertyExplaination\PropertyExplaination\obj\Debug\PropertyExplaination.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\6. OOP Basic (class, obj, constru, prop)\PropertyExplaination\PropertyExplaination\obj\Debug\PropertyExplaination.exe
+D:\Code\learn-csharp\6. OOP Basic (class, obj, constru, prop)\PropertyExplaination\PropertyExplaination\obj\Debug\PropertyExplaination.pdb

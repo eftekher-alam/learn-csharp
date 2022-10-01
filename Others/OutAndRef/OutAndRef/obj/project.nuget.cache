@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+FdC3lYpButgSEa8JtOJTSRmmL1DxprDhahdkCWU1B0LSSg0ILXQWDpIhDWLtTaOUWIp3TwLZ1pqVakFttmCfQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\learn-csharp\\Others\\OutAndRef\\OutAndRef\\OutAndRef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eftekher\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

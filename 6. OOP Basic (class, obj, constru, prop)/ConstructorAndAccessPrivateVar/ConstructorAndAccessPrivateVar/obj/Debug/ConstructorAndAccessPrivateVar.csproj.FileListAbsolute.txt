@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\ConstructorAndAccessPrivateVar\ConstructorAndAccessPrivateVar\bin\Debug\ConstructorAndAccessPrivateVar.exe.config
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\ConstructorAndAccessPrivateVar\ConstructorAndAccessPrivateVar\bin\Debug\ConstructorAndAccessPrivateVar.exe
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\ConstructorAndAccessPrivateVar\ConstructorAndAccessPrivateVar\bin\Debug\ConstructorAndAccessPrivateVar.pdb
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\ConstructorAndAccessPrivateVar\ConstructorAndAccessPrivateVar\obj\Debug\ConstructorAndAccessPrivateVar.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\ConstructorAndAccessPrivateVar\ConstructorAndAccessPrivateVar\obj\Debug\ConstructorAndAccessPrivateVar.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\ConstructorAndAccessPrivateVar\ConstructorAndAccessPrivateVar\obj\Debug\ConstructorAndAccessPrivateVar.exe
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\ConstructorAndAccessPrivateVar\ConstructorAndAccessPrivateVar\obj\Debug\ConstructorAndAccessPrivateVar.pdb

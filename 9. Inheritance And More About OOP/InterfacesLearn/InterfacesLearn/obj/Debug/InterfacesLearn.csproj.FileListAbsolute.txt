@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\9. Inheritance And More About OOP\InterfacesLearn\InterfacesLearn\bin\Debug\InterfacesLearn.exe.config
+D:\Code\learn-csharp\9. Inheritance And More About OOP\InterfacesLearn\InterfacesLearn\bin\Debug\InterfacesLearn.exe
+D:\Code\learn-csharp\9. Inheritance And More About OOP\InterfacesLearn\InterfacesLearn\bin\Debug\InterfacesLearn.pdb
+D:\Code\learn-csharp\9. Inheritance And More About OOP\InterfacesLearn\InterfacesLearn\obj\Debug\InterfacesLearn.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\9. Inheritance And More About OOP\InterfacesLearn\InterfacesLearn\obj\Debug\InterfacesLearn.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\9. Inheritance And More About OOP\InterfacesLearn\InterfacesLearn\obj\Debug\InterfacesLearn.exe
+D:\Code\learn-csharp\9. Inheritance And More About OOP\InterfacesLearn\InterfacesLearn\obj\Debug\InterfacesLearn.pdb

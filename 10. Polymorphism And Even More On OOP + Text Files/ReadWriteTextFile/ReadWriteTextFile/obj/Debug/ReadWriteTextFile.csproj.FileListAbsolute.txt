@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\ReadWriteTextFile\ReadWriteTextFile\bin\Debug\ReadWriteTextFile.exe.config
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\ReadWriteTextFile\ReadWriteTextFile\bin\Debug\ReadWriteTextFile.exe
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\ReadWriteTextFile\ReadWriteTextFile\bin\Debug\ReadWriteTextFile.pdb
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\ReadWriteTextFile\ReadWriteTextFile\obj\Debug\ReadWriteTextFile.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\ReadWriteTextFile\ReadWriteTextFile\obj\Debug\ReadWriteTextFile.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\ReadWriteTextFile\ReadWriteTextFile\obj\Debug\ReadWriteTextFile.exe
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\ReadWriteTextFile\ReadWriteTextFile\obj\Debug\ReadWriteTextFile.pdb

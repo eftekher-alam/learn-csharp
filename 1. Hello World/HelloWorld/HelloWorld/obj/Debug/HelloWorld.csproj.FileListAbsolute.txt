@@ -1,0 +1,7 @@
+D:\Code\LearnCSharp\1. Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Code\LearnCSharp\1. Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Code\LearnCSharp\1. Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Code\LearnCSharp\1. Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Code\LearnCSharp\1. Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Code\LearnCSharp\1. Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Code\LearnCSharp\1. Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

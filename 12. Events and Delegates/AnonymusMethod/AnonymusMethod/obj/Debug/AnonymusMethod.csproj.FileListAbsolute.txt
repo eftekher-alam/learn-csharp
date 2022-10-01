@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\12. Events and Delegates\AnonymusMethod\AnonymusMethod\bin\Debug\AnonymusMethod.exe.config
+D:\Code\learn-csharp\12. Events and Delegates\AnonymusMethod\AnonymusMethod\bin\Debug\AnonymusMethod.exe
+D:\Code\learn-csharp\12. Events and Delegates\AnonymusMethod\AnonymusMethod\bin\Debug\AnonymusMethod.pdb
+D:\Code\learn-csharp\12. Events and Delegates\AnonymusMethod\AnonymusMethod\obj\Debug\AnonymusMethod.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\12. Events and Delegates\AnonymusMethod\AnonymusMethod\obj\Debug\AnonymusMethod.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\12. Events and Delegates\AnonymusMethod\AnonymusMethod\obj\Debug\AnonymusMethod.exe
+D:\Code\learn-csharp\12. Events and Delegates\AnonymusMethod\AnonymusMethod\obj\Debug\AnonymusMethod.pdb

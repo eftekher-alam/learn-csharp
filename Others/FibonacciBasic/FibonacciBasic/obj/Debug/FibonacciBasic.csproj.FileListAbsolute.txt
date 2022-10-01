@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\Others\FibonacciBasic\FibonacciBasic\bin\Debug\FibonacciBasic.exe.config
+D:\Code\learn-csharp\Others\FibonacciBasic\FibonacciBasic\bin\Debug\FibonacciBasic.exe
+D:\Code\learn-csharp\Others\FibonacciBasic\FibonacciBasic\bin\Debug\FibonacciBasic.pdb
+D:\Code\learn-csharp\Others\FibonacciBasic\FibonacciBasic\obj\Debug\FibonacciBasic.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\Others\FibonacciBasic\FibonacciBasic\obj\Debug\FibonacciBasic.exe
+D:\Code\learn-csharp\Others\FibonacciBasic\FibonacciBasic\obj\Debug\FibonacciBasic.pdb
+D:\Code\learn-csharp\Others\FibonacciBasic\FibonacciBasic\obj\Debug\FibonacciBasic.csproj.AssemblyReference.cache

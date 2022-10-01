@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\7. Array and Lists\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
+D:\Code\learn-csharp\7. Array and Lists\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+D:\Code\learn-csharp\7. Array and Lists\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+D:\Code\learn-csharp\7. Array and Lists\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\7. Array and Lists\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\7. Array and Lists\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+D:\Code\learn-csharp\7. Array and Lists\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb

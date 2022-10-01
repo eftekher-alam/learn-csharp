@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\12. Events and Delegates\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.exe.config
+D:\Code\learn-csharp\12. Events and Delegates\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.exe
+D:\Code\learn-csharp\12. Events and Delegates\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.pdb
+D:\Code\learn-csharp\12. Events and Delegates\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\12. Events and Delegates\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\12. Events and Delegates\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.exe
+D:\Code\learn-csharp\12. Events and Delegates\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.pdb

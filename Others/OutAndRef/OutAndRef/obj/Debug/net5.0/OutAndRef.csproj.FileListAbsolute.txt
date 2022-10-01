@@ -1,0 +1,16 @@
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\bin\Debug\net5.0\OutAndRef.exe
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\bin\Debug\net5.0\OutAndRef.deps.json
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\bin\Debug\net5.0\OutAndRef.runtimeconfig.json
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\bin\Debug\net5.0\OutAndRef.runtimeconfig.dev.json
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\bin\Debug\net5.0\OutAndRef.dll
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\bin\Debug\net5.0\ref\OutAndRef.dll
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\bin\Debug\net5.0\OutAndRef.pdb
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\OutAndRef.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\OutAndRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\OutAndRef.AssemblyInfoInputs.cache
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\OutAndRef.AssemblyInfo.cs
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\OutAndRef.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\OutAndRef.dll
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\ref\OutAndRef.dll
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\OutAndRef.pdb
+D:\Code\learn-csharp\Others\OutAndRef\OutAndRef\obj\Debug\net5.0\OutAndRef.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\5. Loops\ChallengeAverageMark\ChallengeAverageMark\bin\Debug\ChallengeAverageMark.exe.config
+D:\Code\learn-csharp\5. Loops\ChallengeAverageMark\ChallengeAverageMark\bin\Debug\ChallengeAverageMark.exe
+D:\Code\learn-csharp\5. Loops\ChallengeAverageMark\ChallengeAverageMark\bin\Debug\ChallengeAverageMark.pdb
+D:\Code\learn-csharp\5. Loops\ChallengeAverageMark\ChallengeAverageMark\obj\Debug\ChallengeAverageMark.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\5. Loops\ChallengeAverageMark\ChallengeAverageMark\obj\Debug\ChallengeAverageMark.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\5. Loops\ChallengeAverageMark\ChallengeAverageMark\obj\Debug\ChallengeAverageMark.exe
+D:\Code\learn-csharp\5. Loops\ChallengeAverageMark\ChallengeAverageMark\obj\Debug\ChallengeAverageMark.pdb

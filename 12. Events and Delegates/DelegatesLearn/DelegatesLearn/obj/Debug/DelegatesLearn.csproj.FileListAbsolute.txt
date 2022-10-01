@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\12. Events and Delegates\DelegatesLearn\DelegatesLearn\bin\Debug\DelegatesLearn.exe.config
+D:\Code\learn-csharp\12. Events and Delegates\DelegatesLearn\DelegatesLearn\bin\Debug\DelegatesLearn.exe
+D:\Code\learn-csharp\12. Events and Delegates\DelegatesLearn\DelegatesLearn\bin\Debug\DelegatesLearn.pdb
+D:\Code\learn-csharp\12. Events and Delegates\DelegatesLearn\DelegatesLearn\obj\Debug\DelegatesLearn.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\12. Events and Delegates\DelegatesLearn\DelegatesLearn\obj\Debug\DelegatesLearn.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\12. Events and Delegates\DelegatesLearn\DelegatesLearn\obj\Debug\DelegatesLearn.exe
+D:\Code\learn-csharp\12. Events and Delegates\DelegatesLearn\DelegatesLearn\obj\Debug\DelegatesLearn.pdb

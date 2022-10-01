@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\Experiment\Experiment\bin\Debug\Experiment.exe.config
+D:\Code\learn-csharp\Experiment\Experiment\bin\Debug\Experiment.exe
+D:\Code\learn-csharp\Experiment\Experiment\bin\Debug\Experiment.pdb
+D:\Code\learn-csharp\Experiment\Experiment\obj\Debug\Experiment.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\Experiment\Experiment\obj\Debug\Experiment.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\Experiment\Experiment\obj\Debug\Experiment.exe
+D:\Code\learn-csharp\Experiment\Experiment\obj\Debug\Experiment.pdb

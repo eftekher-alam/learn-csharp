@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\11. Advanced C# Topics\DateTime\DateTime\bin\Debug\DateTime.exe.config
+D:\Code\learn-csharp\11. Advanced C# Topics\DateTime\DateTime\bin\Debug\DateTime.exe
+D:\Code\learn-csharp\11. Advanced C# Topics\DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\Code\learn-csharp\11. Advanced C# Topics\DateTime\DateTime\obj\Debug\DateTimeLearn.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\11. Advanced C# Topics\DateTime\DateTime\obj\Debug\DateTime.exe
+D:\Code\learn-csharp\11. Advanced C# Topics\DateTime\DateTime\obj\Debug\DateTime.pdb
+D:\Code\learn-csharp\11. Advanced C# Topics\DateTime\DateTime\obj\Debug\DateTimeLearn.csproj.AssemblyReference.cache

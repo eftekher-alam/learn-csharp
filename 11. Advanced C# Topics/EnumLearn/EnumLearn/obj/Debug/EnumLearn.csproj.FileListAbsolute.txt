@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\EnumLearn\EnumLearn\bin\Debug\EnumLearn.exe.config
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\EnumLearn\EnumLearn\bin\Debug\EnumLearn.exe
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\EnumLearn\EnumLearn\bin\Debug\EnumLearn.pdb
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\EnumLearn\EnumLearn\obj\Debug\EnumLearn.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\EnumLearn\EnumLearn\obj\Debug\EnumLearn.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\EnumLearn\EnumLearn\obj\Debug\EnumLearn.exe
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\EnumLearn\EnumLearn\obj\Debug\EnumLearn.pdb

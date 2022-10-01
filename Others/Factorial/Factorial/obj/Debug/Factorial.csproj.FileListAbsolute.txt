@@ -1,0 +1,6 @@
+D:\Code\learn-csharp\Others\Factorial\Factorial\bin\Debug\Factorial.exe.config
+D:\Code\learn-csharp\Others\Factorial\Factorial\bin\Debug\Factorial.exe
+D:\Code\learn-csharp\Others\Factorial\Factorial\bin\Debug\Factorial.pdb
+D:\Code\learn-csharp\Others\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\Others\Factorial\Factorial\obj\Debug\Factorial.exe
+D:\Code\learn-csharp\Others\Factorial\Factorial\obj\Debug\Factorial.pdb

@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\9. Inheritance And More About OOP\Chalange\Chalange\bin\Debug\Chalange.exe.config
+D:\Code\learn-csharp\9. Inheritance And More About OOP\Chalange\Chalange\bin\Debug\Chalange.exe
+D:\Code\learn-csharp\9. Inheritance And More About OOP\Chalange\Chalange\bin\Debug\Chalange.pdb
+D:\Code\learn-csharp\9. Inheritance And More About OOP\Chalange\Chalange\obj\Debug\Chalange.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\9. Inheritance And More About OOP\Chalange\Chalange\obj\Debug\Chalange.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\9. Inheritance And More About OOP\Chalange\Chalange\obj\Debug\Chalange.exe
+D:\Code\learn-csharp\9. Inheritance And More About OOP\Chalange\Chalange\obj\Debug\Chalange.pdb

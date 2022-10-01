@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\4. Make Decisions (if else)\GradeCalculatorIfElse\GradeCalculatorIfElse\bin\Debug\GradeCalculatorIfElse.exe.config
+D:\Code\learn-csharp\4. Make Decisions (if else)\GradeCalculatorIfElse\GradeCalculatorIfElse\bin\Debug\GradeCalculatorIfElse.exe
+D:\Code\learn-csharp\4. Make Decisions (if else)\GradeCalculatorIfElse\GradeCalculatorIfElse\bin\Debug\GradeCalculatorIfElse.pdb
+D:\Code\learn-csharp\4. Make Decisions (if else)\GradeCalculatorIfElse\GradeCalculatorIfElse\obj\Debug\GradeCalculatorIfElse.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\4. Make Decisions (if else)\GradeCalculatorIfElse\GradeCalculatorIfElse\obj\Debug\GradeCalculatorIfElse.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\4. Make Decisions (if else)\GradeCalculatorIfElse\GradeCalculatorIfElse\obj\Debug\GradeCalculatorIfElse.exe
+D:\Code\learn-csharp\4. Make Decisions (if else)\GradeCalculatorIfElse\GradeCalculatorIfElse\obj\Debug\GradeCalculatorIfElse.pdb

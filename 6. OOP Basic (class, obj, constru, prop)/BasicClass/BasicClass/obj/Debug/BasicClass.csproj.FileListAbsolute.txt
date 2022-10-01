@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\BasicClass\BasicClass\bin\Debug\BasicClass.exe.config
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\BasicClass\BasicClass\bin\Debug\BasicClass.exe
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\BasicClass\BasicClass\bin\Debug\BasicClass.pdb
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\BasicClass\BasicClass\obj\Debug\BasicClass.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\BasicClass\BasicClass\obj\Debug\BasicClass.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\BasicClass\BasicClass\obj\Debug\BasicClass.exe
+D:\Code\learn-csharp\6. Object Oriented Programming (OOP)\BasicClass\BasicClass\obj\Debug\BasicClass.pdb

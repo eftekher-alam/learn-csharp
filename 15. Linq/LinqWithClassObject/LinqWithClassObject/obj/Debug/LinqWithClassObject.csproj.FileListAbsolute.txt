@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\15. Linq\LinqWithClassObject\LinqWithClassObject\bin\Debug\LinqWithClassObject.exe.config
+D:\Code\learn-csharp\15. Linq\LinqWithClassObject\LinqWithClassObject\bin\Debug\LinqWithClassObject.exe
+D:\Code\learn-csharp\15. Linq\LinqWithClassObject\LinqWithClassObject\bin\Debug\LinqWithClassObject.pdb
+D:\Code\learn-csharp\15. Linq\LinqWithClassObject\LinqWithClassObject\obj\Debug\LinqWithClassObject.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\15. Linq\LinqWithClassObject\LinqWithClassObject\obj\Debug\LinqWithClassObject.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\15. Linq\LinqWithClassObject\LinqWithClassObject\obj\Debug\LinqWithClassObject.exe
+D:\Code\learn-csharp\15. Linq\LinqWithClassObject\LinqWithClassObject\obj\Debug\LinqWithClassObject.pdb

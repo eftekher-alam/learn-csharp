@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\11. Advanced C# Topics\MathClassLearn\MathClassLearn\bin\Debug\MathClassLearn.exe.config
+D:\Code\learn-csharp\11. Advanced C# Topics\MathClassLearn\MathClassLearn\bin\Debug\MathClassLearn.exe
+D:\Code\learn-csharp\11. Advanced C# Topics\MathClassLearn\MathClassLearn\bin\Debug\MathClassLearn.pdb
+D:\Code\learn-csharp\11. Advanced C# Topics\MathClassLearn\MathClassLearn\obj\Debug\MathClassLearn.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\11. Advanced C# Topics\MathClassLearn\MathClassLearn\obj\Debug\MathClassLearn.exe
+D:\Code\learn-csharp\11. Advanced C# Topics\MathClassLearn\MathClassLearn\obj\Debug\MathClassLearn.pdb
+D:\Code\learn-csharp\11. Advanced C# Topics\MathClassLearn\MathClassLearn\obj\Debug\MathClassLearn.csproj.AssemblyReference.cache

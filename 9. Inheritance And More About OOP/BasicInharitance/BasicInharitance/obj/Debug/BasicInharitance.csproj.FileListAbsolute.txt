@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\9. Inheritance And More About OOP\BasicInharitance\BasicInharitance\bin\Debug\BasicInharitance.exe.config
+D:\Code\learn-csharp\9. Inheritance And More About OOP\BasicInharitance\BasicInharitance\bin\Debug\BasicInharitance.exe
+D:\Code\learn-csharp\9. Inheritance And More About OOP\BasicInharitance\BasicInharitance\bin\Debug\BasicInharitance.pdb
+D:\Code\learn-csharp\9. Inheritance And More About OOP\BasicInharitance\BasicInharitance\obj\Debug\BasicInharitance.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\9. Inheritance And More About OOP\BasicInharitance\BasicInharitance\obj\Debug\BasicInharitance.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\9. Inheritance And More About OOP\BasicInharitance\BasicInharitance\obj\Debug\BasicInharitance.exe
+D:\Code\learn-csharp\9. Inheritance And More About OOP\BasicInharitance\BasicInharitance\obj\Debug\BasicInharitance.pdb

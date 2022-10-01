@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\15. Linq\LinqBasic\LinqBasic\bin\Debug\LinqBasic.exe.config
+D:\Code\learn-csharp\15. Linq\LinqBasic\LinqBasic\bin\Debug\LinqBasic.exe
+D:\Code\learn-csharp\15. Linq\LinqBasic\LinqBasic\bin\Debug\LinqBasic.pdb
+D:\Code\learn-csharp\15. Linq\LinqBasic\LinqBasic\obj\Debug\LinqBasic.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\15. Linq\LinqBasic\LinqBasic\obj\Debug\LinqBasic.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\15. Linq\LinqBasic\LinqBasic\obj\Debug\LinqBasic.exe
+D:\Code\learn-csharp\15. Linq\LinqBasic\LinqBasic\obj\Debug\LinqBasic.pdb

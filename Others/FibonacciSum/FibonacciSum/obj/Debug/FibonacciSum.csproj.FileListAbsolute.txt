@@ -1,0 +1,6 @@
+D:\Code\learn-csharp\Others\FibonacciSum\FibonacciSum\bin\Debug\FibonacciSum.exe.config
+D:\Code\learn-csharp\Others\FibonacciSum\FibonacciSum\bin\Debug\FibonacciSum.exe
+D:\Code\learn-csharp\Others\FibonacciSum\FibonacciSum\bin\Debug\FibonacciSum.pdb
+D:\Code\learn-csharp\Others\FibonacciSum\FibonacciSum\obj\Debug\FibonacciSum.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\Others\FibonacciSum\FibonacciSum\obj\Debug\FibonacciSum.exe
+D:\Code\learn-csharp\Others\FibonacciSum\FibonacciSum\obj\Debug\FibonacciSum.pdb

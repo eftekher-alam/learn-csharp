@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\11. Advanced C# Topics\AbstractionLearn\AbstractionLearn\bin\Debug\AbstractionLearn.exe.config
+D:\Code\learn-csharp\11. Advanced C# Topics\AbstractionLearn\AbstractionLearn\bin\Debug\AbstractionLearn.exe
+D:\Code\learn-csharp\11. Advanced C# Topics\AbstractionLearn\AbstractionLearn\bin\Debug\AbstractionLearn.pdb
+D:\Code\learn-csharp\11. Advanced C# Topics\AbstractionLearn\AbstractionLearn\obj\Debug\AbstractionLearn.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\11. Advanced C# Topics\AbstractionLearn\AbstractionLearn\obj\Debug\AbstractionLearn.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\11. Advanced C# Topics\AbstractionLearn\AbstractionLearn\obj\Debug\AbstractionLearn.exe
+D:\Code\learn-csharp\11. Advanced C# Topics\AbstractionLearn\AbstractionLearn\obj\Debug\AbstractionLearn.pdb

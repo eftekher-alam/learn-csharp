@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\12. Events and Delegates\VariousAnonymousAndLamda\VariousAnonymousAndLamda\bin\Debug\VariousAnonymousAndLamda.exe.config
+D:\Code\learn-csharp\12. Events and Delegates\VariousAnonymousAndLamda\VariousAnonymousAndLamda\bin\Debug\VariousAnonymousAndLamda.exe
+D:\Code\learn-csharp\12. Events and Delegates\VariousAnonymousAndLamda\VariousAnonymousAndLamda\bin\Debug\VariousAnonymousAndLamda.pdb
+D:\Code\learn-csharp\12. Events and Delegates\VariousAnonymousAndLamda\VariousAnonymousAndLamda\obj\Debug\VariousAnonymousAndLamda.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\12. Events and Delegates\VariousAnonymousAndLamda\VariousAnonymousAndLamda\obj\Debug\VariousAnonymousAndLamda.exe
+D:\Code\learn-csharp\12. Events and Delegates\VariousAnonymousAndLamda\VariousAnonymousAndLamda\obj\Debug\VariousAnonymousAndLamda.pdb
+D:\Code\learn-csharp\12. Events and Delegates\VariousAnonymousAndLamda\VariousAnonymousAndLamda\obj\Debug\VariousAnonymousAndLamda.csproj.AssemblyReference.cache

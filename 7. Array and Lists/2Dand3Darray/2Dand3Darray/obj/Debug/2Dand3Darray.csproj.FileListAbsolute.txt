@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\7. Array and Lists\2Dand3Darray\2Dand3Darray\bin\Debug\2Dand3Darray.exe.config
+D:\Code\learn-csharp\7. Array and Lists\2Dand3Darray\2Dand3Darray\bin\Debug\2Dand3Darray.exe
+D:\Code\learn-csharp\7. Array and Lists\2Dand3Darray\2Dand3Darray\bin\Debug\2Dand3Darray.pdb
+D:\Code\learn-csharp\7. Array and Lists\2Dand3Darray\2Dand3Darray\obj\Debug\2Dand3Darray.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\7. Array and Lists\2Dand3Darray\2Dand3Darray\obj\Debug\2Dand3Darray.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\7. Array and Lists\2Dand3Darray\2Dand3Darray\obj\Debug\2Dand3Darray.exe
+D:\Code\learn-csharp\7. Array and Lists\2Dand3Darray\2Dand3Darray\obj\Debug\2Dand3Darray.pdb

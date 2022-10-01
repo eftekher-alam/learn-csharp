@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\7. Array and Lists\ArrayListBasic\ArrayListBasic\bin\Debug\ArrayListBasic.exe.config
+D:\Code\learn-csharp\7. Array and Lists\ArrayListBasic\ArrayListBasic\bin\Debug\ArrayListBasic.exe
+D:\Code\learn-csharp\7. Array and Lists\ArrayListBasic\ArrayListBasic\bin\Debug\ArrayListBasic.pdb
+D:\Code\learn-csharp\7. Array and Lists\ArrayListBasic\ArrayListBasic\obj\Debug\ArrayListBasic.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\7. Array and Lists\ArrayListBasic\ArrayListBasic\obj\Debug\ArrayListBasic.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\7. Array and Lists\ArrayListBasic\ArrayListBasic\obj\Debug\ArrayListBasic.exe
+D:\Code\learn-csharp\7. Array and Lists\ArrayListBasic\ArrayListBasic\obj\Debug\ArrayListBasic.pdb

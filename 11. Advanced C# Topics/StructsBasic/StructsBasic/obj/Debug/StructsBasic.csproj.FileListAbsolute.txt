@@ -1,0 +1,7 @@
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\StructsBasic\StructsBasic\bin\Debug\StructsBasic.exe.config
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\StructsBasic\StructsBasic\bin\Debug\StructsBasic.exe
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\StructsBasic\StructsBasic\bin\Debug\StructsBasic.pdb
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\StructsBasic\StructsBasic\obj\Debug\StructsBasic.csproj.AssemblyReference.cache
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\StructsBasic\StructsBasic\obj\Debug\StructsBasic.csproj.CoreCompileInputs.cache
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\StructsBasic\StructsBasic\obj\Debug\StructsBasic.exe
+D:\Code\learn-csharp\10. Polymorphism And Even More On OOP + Text Files\StructsBasic\StructsBasic\obj\Debug\StructsBasic.pdb
