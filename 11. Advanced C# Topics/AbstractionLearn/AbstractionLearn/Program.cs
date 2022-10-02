@@ -21,7 +21,7 @@ namespace AbstractionLearn
             foreach (var item in ourAnimals)
             {
                 var youAnimal = item as Sheep;
-                if (youAnimal is Cat)
+                if (youAnimal is Cat) //is Check type here youAnimal is Cat type or not checking by the is keyword
                 {
                     Console.WriteLine("This is a cat");
                 }
