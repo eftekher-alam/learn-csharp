@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqgiDP5mwcYK1ibaS+8tmWj6k1vOtZ3BmnzGfc2dS4JJXLj04mrojtg8Y5azfLptxnA2ePFujqpf0R198n+5gg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\learn-csharp\\11. Advanced C# Topics\\AbstractBasic\\AbstractBasic\\AbstractBasic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eftekher\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

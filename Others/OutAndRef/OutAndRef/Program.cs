@@ -6,7 +6,6 @@ namespace OutAndRef
     {
         static void Main(string[] args)
         {
-
             int a; //no need to init first of a out Variable. But must initilize when it return.
             int b = 10;
             SetValueByRef(out a, ref b);
@@ -19,4 +18,3 @@ namespace OutAndRef
             y = 0; //It is optional to initialize.
         }
     }
-}
