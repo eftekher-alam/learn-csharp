@@ -23,6 +23,7 @@ namespace LinqWithClassObject
             };
             var manager = new Manager(students, universities);
             // manager.AllStudents();
+            Console.WriteLine("Department of CSE Called");
             manager.StudentOfCSE();
             manager.StudentOfU1();
             manager.StudentAndUniversity();
@@ -48,11 +49,21 @@ namespace LinqWithClassObject
         }
         public void StudentOfCSE()
         {
-            IEnumerable<Student> cseStudents = from student in students where student.Department.Contains("CSE") select student;
+            //It is lazily looding means cseStudent linque only execute when it will used. Here in this case, when in the foreache loop use cseStudent that time for every recourd the linq will execute. Check by using debugger.
+            int i = 0; //Here i is used to understand the difference between eager loadding lazily loadding.
+            //var cseStudents = from student in students
+            //                  where student.Department.Contains("CSE")
+            //                  select (student.Name, student.Department, ++i);
+
+            //it is eager lodding means in cseStudents fully lood all data then go to next.
+            var cseStudents = (from student in students
+                               where student.Department.Contains("CSE")
+                               select (student.Name, student.Department, ++i)).ToList();
             Console.WriteLine("---------> Students of CSE Department <---------");
+
             foreach (var item in cseStudents)
             {
-                Console.WriteLine(item);
+                Console.WriteLine($"Name : {item.Name}\nDepartment : {item.Department}\ni : {i}\n");
             }
         }
         public void StudentOfU1()

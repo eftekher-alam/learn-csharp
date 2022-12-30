@@ -20,7 +20,9 @@ namespace LinqBasic
             }
 
             string[] names =  { "Eftekher", "Shuvo", "Arithmatic", "Automation", "Football" };
-            IEnumerable<string> nameOP = from name in names where name.Contains("a") select name;
+            IEnumerable<string> nameOP = from name in names 
+                                         where name.ToLower().Contains("o")
+                                         select name;
 
             foreach (var item in nameOP)
             {
